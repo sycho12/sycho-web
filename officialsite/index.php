@@ -1,3 +1,3 @@
 <?php
-echo "Hello another world";
+echo "Ykawada is God of Go";
 ?>
